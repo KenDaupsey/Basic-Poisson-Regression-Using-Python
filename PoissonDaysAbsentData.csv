@@ -1,0 +1,317 @@
+id,gender,ethnic,school,mathpr,langpr,mathnce,langnce,biling,daysabs
+1001,male,hispanic,1,63,36,56.98883,42.45086,RFEP,4
+1002,male,hispanic,1,27,44,37.09416,46.820587,RFEP,4
+1003,female,hispanic,1,20,38,32.275455,43.566574,RFEP,2
+1004,female,hispanic,1,16,38,29.056717,43.566574,RFEP,3
+1005,female,hispanic,1,2,14,6.748048,27.248474,LEP,3
+1006,female,hispanic,1,71,47,61.65428,48.414818,no bilingual,13
+1007,female,hispanic,1,63,33,56.98883,40.735428,RFEP,11
+1008,male,hispanic,1,3,5,10.390487,15.359383,RFEP,7
+1009,male,hispanic,1,51,54,50.52795,52.115135,RFEP,10
+1010,male,filipino,1,49,36,49.47205,42.45086,no bilingual,9
+1011,female,filipino,1,31,26,39.557392,36.451145,no bilingual,4
+1012,male,hispanic,1,22,4,33.73761,13.130551,RFEP,5
+1013,female,hispanic,1,73,72,62.90584,62.274643,RFEP,5
+1014,female,afr amer,1,77,40,65.56011,44.66451,no bilingual,3
+1015,male,filipino,1,10,12,23.010525,25.254778,IFEP,1
+1016,male,hispanic,1,89,70,75.83068,61.043877,RFEP,0
+1017,female,hispanic,1,34,49,41.313526,49.47205,RFEP,1
+1018,female,hispanic,1,35,77,41.88515,65.56011,RFEP,0
+1019,male,afr amer,1,77,44,65.56011,46.820587,IFEP,2
+1020,male,hispanic,1,4,2,13.130551,6.748048,LEP,24
+1021,female,hispanic,1,21,36,33.01677,42.45086,RFEP,2
+1022,male,hispanic,1,61,76,55.882458,64.87473,RFEP,0
+1023,male,hispanic,1,41,60,45.2079,55.33549,RFEP,1
+1024,male,hispanic,1,63,40,56.98883,44.66451,RFEP,0
+1025,female,hispanic,1,19,29,31.511503,38.34572,RFEP,8
+1026,male,afr amer,1,55,50,52.646427,50,no bilingual,3
+1027,male,hispanic,1,6,2,17.256468,6.748048,no bilingual,7
+1028,female,hispanic,1,21,32,33.01677,40.150265,RFEP,0
+1029,male,hispanic,1,70,64,61.043877,57.54914,IFEP,2
+1030,male,afr amer,1,79,85,66.98323,71.827286,no bilingual,0
+1031,male,hispanic,1,1,41,1.0071138,45.2079,IFEP,0
+1032,female,hispanic,1,29,24,38.34572,35.125267,LEP,1
+1033,male,hispanic,1,40,44,44.66451,46.820587,RFEP,3
+1034,male,asian,1,39,44,44.117542,46.820587,LEP,0
+1035,male,hispanic,1,68,43,59.849735,46.28556,LEP,0
+1036,female,hispanic,1,20,45,32.275455,47.353573,LEP,28
+1037,male,hispanic,1,10,49,23.010525,49.47205,IFEP,8
+1038,male,hispanic,1,84,70,70.94328,61.043877,RFEP,5
+1039,male,afr amer,1,1,1,1.0071138,1.0071138,no bilingual,2
+1040,female,hispanic,1,35,54,41.88515,52.115135,LEP,27
+1041,female,hispanic,1,32,24,40.150265,35.125267,RFEP,5
+1042,female,hispanic,1,34,29,41.313526,38.34572,LEP,18
+1043,female,hispanic,1,40,66,44.66451,58.686474,LEP,19
+1044,male,hispanic,1,29,36,38.34572,42.45086,RFEP,9
+1045,male,hispanic,1,20,1,32.275455,1.0071138,IFEP,9
+1046,female,hispanic,1,27,20,37.09416,32.275455,no bilingual,4
+1047,male,hispanic,1,74,64,63.548855,57.54914,RFEP,2
+1048,male,hispanic,1,38,34,43.566574,41.313526,IFEP,3
+1049,male,hispanic,1,21,11,33.01677,24.169317,no bilingual,9
+1050,female,asian,1,81,67,68.488495,59.264572,RFEP,20
+1051,male,hispanic,1,16,9,29.056717,21.763699,IFEP,6
+1052,male,asian,1,59,59,54.7921,54.7921,no bilingual,0
+1053,male,hispanic,1,48,53,48.943764,51.585182,RFEP,27
+1054,female,hispanic,1,55,51,52.646427,50.52795,RFEP,12
+1055,female,hispanic,1,4,20,13.130551,32.275455,LEP,34
+1056,male,asian,1,57,35,53.71444,41.88515,IFEP,1
+1057,male,afr amer,1,5,20,15.359383,32.275455,no bilingual,25
+1058,male,afr amer,1,3,6,10.390487,17.256468,no bilingual,5
+1059,female,hispanic,1,23,29,34.439884,38.34572,LEP,3
+1060,female,hispanic,1,35,36,41.88515,42.45086,IFEP,2
+1061,male,hispanic,1,33,60,40.735428,55.33549,LEP,1
+1062,female,hispanic,1,27,55,37.09416,52.646427,RFEP,7
+1063,male,hispanic,1,13,13,26.278202,26.278202,IFEP,4
+1064,male,hispanic,1,46,26,47.884865,36.451145,LEP,8
+1065,female,hispanic,1,30,61,38.956123,55.882458,no bilingual,6
+1066,male,asian,1,32,45,40.150265,47.353573,no bilingual,16
+1067,female,afr amer,1,26,32,36.451145,40.150265,no bilingual,3
+1068,female,hispanic,1,14,31,27.248474,39.557392,IFEP,4
+1069,female,filipino,1,31,38,39.557392,43.566574,IFEP,3
+1070,female,hispanic,1,48,26,48.943764,36.451145,LEP,5
+1071,male,hispanic,1,72,43,62.274643,46.28556,IFEP,0
+1072,male,hispanic,1,79,68,66.98323,59.849735,no bilingual,9
+1073,male,filipino,1,15,68,28.172712,59.849735,LEP,0
+1074,male,hispanic,1,24,27,35.125267,37.09416,IFEP,8
+1075,female,filipino,1,55,83,52.646427,70.09472,no bilingual,0
+1076,female,afr amer,1,13,24,26.278202,35.125267,no bilingual,11
+1077,male,hispanic,1,34,36,41.313526,42.45086,no bilingual,4
+1078,male,hispanic,1,67,85,59.264572,71.827286,IFEP,2
+1079,male,hispanic,1,1,6,1.0071138,17.256468,LEP,35
+1080,female,hispanic,1,21,35,33.01677,41.88515,LEP,23
+1081,female,hispanic,1,33,36,40.735428,42.45086,LEP,13
+1082,male,hispanic,1,78,76,66.26239,64.87473,no bilingual,6
+1083,female,afr amer,1,84,42,70.94328,45.748123,no bilingual,0
+1084,male,hispanic,1,59,69,54.7921,60.442608,RFEP,6
+1085,male,hispanic,1,75,51,64.20476,50.52795,RFEP,0
+1086,male,afr amer,1,22,32,33.73761,40.150265,no bilingual,8
+1087,female,hispanic,1,49,40,49.47205,44.66451,no bilingual,11
+1088,female,hispanic,1,13,87,26.278202,73.721794,RFEP,11
+1089,male,filipino,1,84,58,70.94328,54.251877,IFEP,4
+1090,male,hispanic,1,27,34,37.09416,41.313526,RFEP,6
+1091,female,hispanic,1,27,49,37.09416,49.47205,no bilingual,23
+1092,female,hispanic,1,70,82,61.043877,69.27759,IFEP,5
+1093,male,hispanic,1,96,96,86.869446,86.869446,RFEP,5
+1094,female,afr amer,1,70,75,61.043877,64.20476,no bilingual,26
+1095,female,hispanic,1,10,2,23.010525,6.748048,LEP,7
+1096,male,hispanic,1,14,24,27.248474,35.125267,LEP,1
+1097,male,hispanic,1,20,44,32.275455,46.820587,RFEP,9
+1098,male,hispanic,1,11,6,24.169317,17.256468,RFEP,11
+1099,male,hispanic,1,42,50,45.748123,50,RFEP,18
+1100,male,hispanic,1,2,4,6.748048,13.130551,LEP,12
+1101,male,afr amer,1,24,14,35.125267,27.248474,no bilingual,3
+1102,male,asian,1,37,15,43.01117,28.172712,LEP,0
+1103,male,hispanic,1,13,4,26.278202,13.130551,LEP,4
+1104,male,hispanic,1,3,16,10.390487,29.056717,LEP,10
+1105,male,afr amer,1,70,78,61.043877,66.26239,no bilingual,16
+1106,female,hispanic,1,27,53,37.09416,51.585182,RFEP,1
+1107,female,afr amer,1,1,1,1.0071138,1.0071138,no bilingual,9
+1108,female,asian,1,61,41,55.882458,45.2079,RFEP,3
+1109,male,hispanic,1,44,29,46.820587,38.34572,LEP,0
+1110,male,hispanic,1,35,63,41.88515,56.98883,RFEP,9
+1111,male,asian,1,78,25,66.26239,35.795246,LEP,14
+1112,female,hispanic,1,3,30,10.390487,38.956123,RFEP,7
+1113,male,hispanic,1,21,32,33.01677,40.150265,LEP,3
+1114,male,hispanic,1,26,8,36.451145,20.409193,LEP,10
+1115,male,hispanic,1,44,77,46.820587,65.56011,RFEP,12
+1116,female,hispanic,1,47,23,48.414818,34.439884,IFEP,6
+1117,female,hispanic,1,35,35,41.88515,41.88515,RFEP,35
+1118,female,afr amer,1,8,12,20.409193,25.254778,no bilingual,13
+1119,female,hispanic,1,87,88,73.721794,74.745224,RFEP,3
+1120,male,hispanic,1,3,32,10.390487,40.150265,LEP,10
+1121,male,hispanic,1,6,8,17.256468,20.409193,LEP,6
+1122,male,afr amer,1,89,76,75.83068,64.87473,no bilingual,0
+1123,male,hispanic,1,13,10,26.278202,23.010525,LEP,2
+1124,male,hispanic,1,84,94,70.94328,82.74353,RFEP,6
+1125,male,hispanic,1,90,81,76.98948,68.488495,IFEP,5
+1126,female,hispanic,1,71,65,61.65428,58.11485,RFEP,13
+1127,female,afr amer,1,15,2,28.172712,6.748048,no bilingual,4
+1128,female,hispanic,1,41,48,45.2079,48.943764,RFEP,5
+1129,female,asian,1,63,77,56.98883,65.56011,no bilingual,3
+1130,female,hispanic,1,34,48,41.313526,48.943764,RFEP,30
+1131,female,hispanic,1,45,44,47.353573,46.820587,no bilingual,16
+1132,female,hispanic,1,29,37,38.34572,43.01117,no bilingual,15
+1133,female,hispanic,1,3,2,10.390487,6.748048,LEP,12
+1134,male,hispanic,1,35,26,41.88515,36.451145,RFEP,1
+1135,male,afr amer,1,32,30,40.150265,38.956123,no bilingual,1
+1136,male,hispanic,1,22,25,33.73761,35.795246,no bilingual,7
+1137,female,hispanic,1,81,55,68.488495,52.646427,IFEP,1
+1138,female,asian,1,99,75,98.99289,64.20476,RFEP,45
+1139,female,hispanic,1,73,37,62.90584,43.01117,RFEP,10
+1140,male,asian,1,69,26,60.442608,36.451145,RFEP,3
+1141,female,afr amer,1,27,3,37.09416,10.390487,no bilingual,27
+1142,female,hispanic,1,13,21,26.278202,33.01677,RFEP,2
+1143,female,hispanic,1,76,57,64.87473,53.71444,RFEP,13
+1144,female,afr amer,1,7,16,18.919842,29.056717,no bilingual,2
+1145,male,hispanic,1,59,46,54.7921,47.884865,RFEP,5
+1146,female,hispanic,1,29,30,38.34572,38.956123,RFEP,5
+1147,female,hispanic,1,57,54,53.71444,52.115135,RFEP,4
+1148,female,hispanic,1,44,53,46.820587,51.585182,IFEP,3
+1149,female,hispanic,1,53,85,51.585182,71.827286,IFEP,20
+1150,female,hispanic,1,23,32,34.439884,40.150265,LEP,12
+1151,female,afr amer,1,29,40,38.34572,44.66451,no bilingual,31
+1152,male,asian,1,40,33,44.66451,40.735428,LEP,6
+1153,male,hispanic,1,49,19,49.47205,31.511503,RFEP,14
+1154,female,afr amer,1,38,44,43.566574,46.820587,no bilingual,13
+1155,male,afr amer,1,31,49,39.557392,49.47205,no bilingual,6
+1156,female,afr amer,1,21,45,33.01677,47.353573,no bilingual,12
+1157,male,afr amer,1,8,16,20.409193,29.056717,no bilingual,12
+1158,male,hispanic,1,37,23,43.01117,34.439884,LEP,0
+1159,male,hispanic,1,53,38,51.585182,43.566574,RFEP,1
+2001,female,white,2,31,51,39.557392,50.52795,no bilingual,4
+2002,male,white,2,57,1,53.71444,1.0071138,LEP,0
+2003,male,filipino,2,57,30,53.71444,38.956123,no bilingual,0
+2004,male,white,2,59,75,54.7921,64.20476,IFEP,2
+2005,female,white,2,29,59,38.34572,54.7921,no bilingual,1
+2006,female,asian,2,41,85,45.2079,71.827286,IFEP,2
+2007,male,white,2,71,66,61.65428,58.686474,no bilingual,0
+2008,female,white,2,59,50,54.7921,50,LEP,0
+2009,male,white,2,71,59,61.65428,54.7921,no bilingual,0
+2010,female,white,2,70,66,61.043877,58.686474,no bilingual,7
+2011,male,white,2,77,78,65.56011,66.26239,IFEP,2
+2012,female,asian,2,70,85,61.043877,71.827286,IFEP,9
+2013,female,white,2,87,60,73.721794,55.33549,RFEP,6
+2014,male,white,2,59,53,54.7921,51.585182,no bilingual,4
+2015,male,white,2,65,65,58.11485,58.11485,no bilingual,1
+2016,female,hispanic,2,28,44,37.725357,46.820587,RFEP,7
+2017,male,white,2,77,83,65.56011,70.09472,IFEP,0
+2018,male,white,2,65,81,58.11485,68.488495,IFEP,0
+2019,female,white,2,73,85,62.90584,71.827286,no bilingual,4
+2020,male,hispanic,2,99,60,98.99289,55.33549,no bilingual,2
+2021,female,white,2,57,79,53.71444,66.98323,RFEP,0
+2022,female,white,2,77,50,65.56011,50,no bilingual,4
+2023,female,hispanic,2,57,77,53.71444,65.56011,no bilingual,2
+2024,female,afr amer,2,47,16,48.414818,29.056717,no bilingual,18
+2025,female,white,2,24,54,35.125267,52.115135,RFEP,1
+2026,male,white,2,84,84,70.94328,70.94328,no bilingual,0
+2027,female,white,2,73,77,62.90584,65.56011,RFEP,1
+2028,male,white,2,81,66,68.488495,58.686474,no bilingual,16
+2029,female,afr amer,2,52,34,51.056236,41.313526,no bilingual,6
+2030,female,white,2,75,80,64.20476,67.72454,no bilingual,16
+2031,male,asian,2,65,91,58.11485,78.2363,IFEP,0
+2032,female,afr amer,2,44,36,46.820587,42.45086,no bilingual,8
+2033,male,white,2,44,55,46.820587,52.646427,no bilingual,1
+2034,female,white,2,79,96,66.98323,86.869446,no bilingual,2
+2035,female,white,2,20,52,32.275455,51.056236,IFEP,3
+2036,female,hispanic,2,16,16,29.056717,29.056717,LEP,4
+2037,female,hispanic,2,99,36,98.99289,42.45086,LEP,2
+2038,female,afr amer,2,71,95,61.65428,84.64062,no bilingual,4
+2039,male,white,2,46,27,47.884865,37.09416,RFEP,7
+2040,female,hispanic,2,57,63,53.71444,56.98883,IFEP,0
+2041,female,hispanic,2,67,53,59.264572,51.585182,RFEP,1
+2042,female,white,2,87,98,73.721794,93.25195,no bilingual,1
+2043,female,white,2,70,53,61.043877,51.585182,no bilingual,0
+2044,female,white,2,21,41,33.01677,45.2079,no bilingual,13
+2045,female,white,2,31,34,39.557392,41.313526,no bilingual,1
+2046,male,white,2,63,72,56.98883,62.274643,RFEP,0
+2047,female,hispanic,2,44,46,46.820587,47.884865,RFEP,1
+2048,male,white,2,34,40,41.313526,44.66451,LEP,0
+2049,female,afr amer,2,77,85,65.56011,71.827286,no bilingual,1
+2050,female,white,2,94,99,82.74353,98.99289,IFEP,0
+2051,female,afr amer,2,41,39,45.2079,44.117542,no bilingual,1
+2052,female,white,2,67,70,59.264572,61.043877,IFEP,0
+2053,female,white,2,61,63,55.882458,56.98883,IFEP,2
+2054,male,white,2,82,92,69.27759,79.590805,no bilingual,0
+2055,female,afr amer,2,63,67,56.98883,59.264572,no bilingual,1
+2056,male,white,2,63,45,56.98883,47.353573,LEP,0
+2057,female,white,2,77,72,65.56011,62.274643,IFEP,4
+2058,male,white,2,46,52,47.884865,51.056236,no bilingual,3
+2059,male,white,2,8,32,20.409193,40.150265,IFEP,1
+2060,female,hispanic,2,61,93,55.882458,81.08016,IFEP,0
+2061,female,asian,2,71,69,61.65428,60.442608,no bilingual,1
+2062,female,white,2,65,81,58.11485,68.488495,no bilingual,4
+2063,female,hispanic,2,41,45,45.2079,47.353573,IFEP,1
+2064,male,hispanic,2,16,20,29.056717,32.275455,RFEP,9
+2065,female,white,2,22,68,33.73761,59.849735,no bilingual,0
+2066,male,hispanic,2,57,32,53.71444,40.150265,RFEP,4
+2067,female,asian,2,51,57,50.52795,53.71444,RFEP,8
+2068,male,hispanic,2,74,58,63.548855,54.251877,no bilingual,13
+2069,male,white,2,41,48,45.2079,48.943764,RFEP,0
+2070,male,white,2,87,62,73.721794,56.433426,RFEP,0
+2071,male,white,2,67,49,59.264572,49.47205,no bilingual,0
+2072,female,asian,2,99,82,98.99289,69.27759,RFEP,0
+2073,female,hispanic,2,63,88,56.98883,74.745224,IFEP,2
+2074,female,white,2,65,65,58.11485,58.11485,no bilingual,5
+2075,female,white,2,71,96,61.65428,86.869446,no bilingual,1
+2076,male,white,2,77,79,65.56011,66.98323,IFEP,0
+2077,female,afr amer,2,67,63,59.264572,56.98883,no bilingual,0
+2078,female,hispanic,2,79,74,66.98323,63.548855,RFEP,1
+2079,female,white,2,20,50,32.275455,50,RFEP,2
+2080,male,afr amer,2,84,87,70.94328,73.721794,no bilingual,1
+2081,male,asian,2,28,28,37.725357,37.725357,RFEP,5
+2082,female,white,2,20,17,32.275455,29.90528,RFEP,3
+2083,male,white,2,26,20,36.451145,32.275455,IFEP,1
+2084,female,asian,2,75,85,64.20476,71.827286,no bilingual,3
+2085,female,white,2,63,85,56.98883,71.827286,no bilingual,6
+2086,male,white,2,39,11,44.117542,24.169317,IFEP,8
+2087,male,asian,2,32,32,40.150265,40.150265,IFEP,21
+2088,male,hispanic,2,15,18,28.172712,30.722412,IFEP,1
+2089,female,white,2,55,92,52.646427,79.590805,no bilingual,7
+2090,female,asian,2,32,40,40.150265,44.66451,no bilingual,5
+2091,male,asian,2,34,32,41.313526,40.150265,RFEP,1
+2092,female,white,2,67,97,59.264572,89.60951,no bilingual,1
+2093,female,white,2,41,44,45.2079,46.820587,RFEP,0
+2094,male,white,2,41,56,45.2079,53.179413,RFEP,4
+2095,female,hispanic,2,29,60,38.34572,55.33549,no bilingual,0
+2096,male,white,2,43,60,46.28556,55.33549,no bilingual,14
+2097,female,hispanic,2,77,52,65.56011,51.056236,RFEP,2
+2098,female,white,2,53,77,51.585182,65.56011,RFEP,2
+2099,female,white,2,44,81,46.820587,68.488495,RFEP,2
+2100,male,white,2,51,37,50.52795,43.01117,no bilingual,0
+2101,male,white,2,67,60,59.264572,55.33549,IFEP,1
+2102,male,white,2,49,37,49.47205,43.01117,no bilingual,19
+2103,female,asian,2,37,44,43.01117,46.820587,no bilingual,2
+2104,male,white,2,65,85,58.11485,71.827286,no bilingual,11
+2105,male,afr amer,2,43,84,46.28556,70.94328,no bilingual,0
+2106,female,hispanic,2,48,57,48.943764,53.71444,RFEP,5
+2107,female,afr amer,2,99,63,98.99289,56.98883,no bilingual,13
+2108,female,white,2,34,51,41.313526,50.52795,IFEP,0
+2109,male,white,2,87,94,73.721794,82.74353,IFEP,5
+2110,male,white,2,75,77,64.20476,65.56011,no bilingual,3
+2111,female,hispanic,2,57,53,53.71444,51.585182,RFEP,2
+2112,male,white,2,61,99,55.882458,98.99289,no bilingual,2
+2113,male,afr amer,2,73,63,62.90584,56.98883,no bilingual,5
+2114,female,white,2,70,85,61.043877,71.827286,IFEP,0
+2115,female,white,2,99,99,98.99289,98.99289,no bilingual,3
+2116,male,white,2,73,59,62.90584,54.7921,RFEP,0
+2117,male,white,2,66,69,58.686474,60.442608,no bilingual,1
+2118,male,hispanic,2,57,24,53.71444,35.125267,LEP,9
+2119,male,white,2,77,39,65.56011,44.117542,no bilingual,1
+2120,male,white,2,53,32,51.585182,40.150265,LEP,0
+2121,male,white,2,73,72,62.90584,62.274643,no bilingual,0
+2122,male,white,2,84,65,70.94328,58.11485,IFEP,1
+2123,male,hispanic,2,83,47,70.09472,48.414818,no bilingual,12
+2124,female,white,2,77,72,65.56011,62.274643,no bilingual,3
+2125,male,white,2,44,77,46.820587,65.56011,RFEP,0
+2126,female,white,2,79,53,66.98323,51.585182,no bilingual,1
+2127,male,afr amer,2,53,67,51.585182,59.264572,no bilingual,5
+2128,female,white,2,43,75,46.28556,64.20476,IFEP,1
+2129,male,white,2,46,66,47.884865,58.686474,no bilingual,1
+2130,female,hispanic,2,35,65,41.88515,58.11485,RFEP,7
+2131,female,white,2,63,68,56.98883,59.849735,no bilingual,6
+2132,female,white,2,75,93,64.20476,81.08016,RFEP,0
+2133,female,white,2,84,66,70.94328,58.686474,RFEP,8
+2134,male,hispanic,2,41,64,45.2079,57.54914,RFEP,0
+2135,female,white,2,32,47,40.150265,48.414818,RFEP,1
+2136,male,hispanic,2,12,4,25.254778,13.130551,LEP,0
+2137,male,white,2,61,96,55.882458,86.869446,no bilingual,4
+2138,female,asian,2,99,98,98.99289,93.25195,IFEP,17
+2139,male,nat amer,2,67,39,59.264572,44.117542,no bilingual,6
+2140,female,white,2,35,34,41.88515,41.313526,IFEP,0
+2141,female,white,2,70,63,61.043877,56.98883,RFEP,0
+2142,female,white,2,87,84,73.721794,70.94328,no bilingual,1
+2143,male,white,2,70,46,61.043877,47.884865,RFEP,3
+2144,male,hispanic,2,57,70,53.71444,61.043877,IFEP,1
+2145,male,white,2,44,67,46.820587,59.264572,IFEP,2
+2146,female,white,2,26,44,36.451145,46.820587,LEP,2
+2147,male,white,2,63,70,56.98883,61.043877,no bilingual,2
+2148,female,hispanic,2,8,5,20.409193,15.359383,RFEP,5
+2149,female,hispanic,2,46,59,47.884865,54.7921,IFEP,41
+2150,male,white,2,63,37,56.98883,43.01117,RFEP,3
+2151,female,filipino,2,59,85,54.7921,71.827286,IFEP,7
+2152,female,white,2,46,82,47.884865,69.27759,no bilingual,1
+2153,male,hispanic,2,26,46,36.451145,47.884865,RFEP,1
+2154,female,white,2,79,81,66.98323,68.488495,RFEP,3
+2155,female,hispanic,2,59,56,54.7921,53.179413,no bilingual,0
+2156,female,white,2,90,82,76.98948,69.27759,no bilingual,0
+2157,female,white,2,77,84,65.56011,70.94328,no bilingual,2
